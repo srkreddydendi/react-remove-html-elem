@@ -6,7 +6,7 @@ export default function App() {
     let htmlCollection = document.getElementsByClassName("h1");
     let arr = [...htmlCollection];
     let ele = arr[arr.length - 1];
-    for(i = 0; i< arr.length -1; i++){
+    for (let i = 0; i < arr.length - 1; i++) {
       arr[i].remove();
     }
   }
