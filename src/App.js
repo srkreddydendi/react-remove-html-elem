@@ -14,7 +14,10 @@ export default function App() {
     <>
       <div class="div">
         <h1 class="h1">Hello StackBlitz!</h1>
-        <h1 class="h1">Start editing to see some magic happen :)</h1>
+        <h1 class="h1">Start editing to see some magic happen 1</h1>
+        <h1 class="h1">Start editing to see some magic happen 2</h1>
+        <h1 class="h1">Start editing to see some magic happen 3</h1>
+        <h1 class="h1">Start editing to see some magic happen 4</h1>
       </div>
       <button onClick={clickMe}>click</button>
     </>
